@@ -26,7 +26,7 @@ class ClienteIntegrationTest {
               "nombre": "Carlos Pérez",
               "genero": "M",
               "edad": 40,
-              "identificacion": "1999999999",
+              "identificacion": "1999999994",
               "direccion": "Av. Siempre Viva 742",
               "telefono": "0987000000",
               "contrasena": "pass1234"
@@ -37,11 +37,11 @@ class ClienteIntegrationTest {
                 .contentType(MediaType.APPLICATION_JSON)
                 .content(payload))
             .andExpect(status().isCreated())
-            .andExpect(jsonPath("$.identificacion").value("1999999999"));
+            .andExpect(jsonPath("$.identificacion").value("1999999994"));
 
         // 2) Listamos todos y comprobamos que existe un elemento con esa identificación
         mockMvc.perform(get("/api/clientes"))
             .andExpect(status().isOk())
-            .andExpect(jsonPath("$[*].identificacion", hasItem("1999999999")));
+            .andExpect(jsonPath("$[*].identificacion", hasItem("1999999994")));
     }
 }
