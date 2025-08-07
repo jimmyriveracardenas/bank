@@ -1,0 +1,16 @@
+com\technical\bank\cliente\service\impl\ClienteServiceImpl.class
+com\technical\bank\cliente\dto\UpdateClienteRequest$UpdateClienteRequestBuilder.class
+com\technical\bank\cliente\domain\Cliente.class
+com\technical\bank\cliente\domain\Persona$PersonaBuilder.class
+com\technical\bank\cliente\repository\ClienteRepository.class
+com\technical\bank\cliente\dto\ClienteResponse$ClienteResponseBuilder.class
+com\technical\bank\cliente\MsClienteApplication.class
+com\technical\bank\cliente\repository\PersonaRepository.class
+com\technical\bank\cliente\domain\Cliente$ClienteBuilder.class
+com\technical\bank\cliente\dto\CreateClienteRequest.class
+com\technical\bank\cliente\dto\ClienteResponse.class
+com\technical\bank\cliente\dto\CreateClienteRequest$CreateClienteRequestBuilder.class
+com\technical\bank\cliente\domain\Persona.class
+com\technical\bank\cliente\dto\UpdateClienteRequest.class
+com\technical\bank\cliente\service\ClienteService.class
+com\technical\bank\cliente\controller\ClienteController.class

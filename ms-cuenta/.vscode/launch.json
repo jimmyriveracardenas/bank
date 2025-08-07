@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsCuentaApplication<ms-cuenta>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.technical.bank.cuenta.MsCuentaApplication",
+            "projectName": "ms-cuenta",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

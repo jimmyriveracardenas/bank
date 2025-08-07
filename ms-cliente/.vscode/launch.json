@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MsClienteApplication",
+            "request": "launch",
+            "mainClass": "com.technical.bank.cliente.MsClienteApplication",
+            "projectName": "ms-cliente"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MsClienteApplication<ms-cliente>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tecnichal.bank.cliente.MsClienteApplication",
+            "projectName": "ms-cliente",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=60553 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=ms-cliente"
+        }
+    ]
+}

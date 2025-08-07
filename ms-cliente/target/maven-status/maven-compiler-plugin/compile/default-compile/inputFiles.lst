@@ -1,0 +1,11 @@
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\controller\ClienteController.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\domain\Cliente.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\domain\Persona.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\dto\ClienteResponse.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\dto\CreateClienteRequest.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\dto\UpdateClienteRequest.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\MsClienteApplication.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\repository\ClienteRepository.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\repository\PersonaRepository.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\service\ClienteService.java
+C:\Users\JDRC\Downloads\movements\ms-cliente\src\main\java\com\technical\bank\cliente\service\impl\ClienteServiceImpl.java
